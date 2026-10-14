@@ -1,3 +1,5 @@
+![mornrain-cache-boost](assets/preview.png)
+
 # Morn Cache Boost
 
 页面缓存加速插件。整页 HTML 输出缓存，支持 File / Transient / APCu 三种存储后端，移动端与桌面端分离，多维排除规则，内容变更自动失效。
